@@ -1,0 +1,12 @@
+pandas
+numpy
+Requests==2.32.3
+langchain
+langchain_groq
+langchain_core
+langchain_community
+langchain_google_genai
+langchain_huggingface
+sentence_transformers
+PyPDF2
+tempfile
